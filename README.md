@@ -23,8 +23,6 @@
 <p align="justify">En este repositorio se encuentra el programa en Arduino complementario al presente proyecto de investigación con el cual se podrán calcular y enviar los datos referentes a los sensores que estarán
 en todo momento monitoreando los signos vitales (pulso cardiaco/electrocardiograma, temperatura corporal y saturación de oxígeno en la sangre) de pacientes que se encuentren en reposo desde su hogar.
 
-El uso de tecnologías como Arduino 1.8.2 así como de diversas bibliotecas referentes a los sensores, ethernte shield y parseo de datos a JSON son requeridas para su correcto funcionamiento.</p>
-
 <p align="center">© 2019 - 2020 | Todos los derechos reservados | Hecho de ♥ por <a href="https://www.itsanjuan.edu.mx" target="_blank">ITSJR Research</a> & <a href="https://www.omar-mancilla.tech" target="_blank">Omar Mancilla</a></p>
 
 <h1>Diagrama de conexión</h1>
